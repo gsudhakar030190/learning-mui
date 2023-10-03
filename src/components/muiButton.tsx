@@ -89,6 +89,7 @@ const MuiButton = () => {
           <ToggleButton value="Right">Right</ToggleButton>
         </ToggleButtonGroup>
       </Stack>
+      <Stack></Stack>
     </Stack>
   );
 };
